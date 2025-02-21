@@ -1,3 +1,11 @@
+# Instructions
+
+1) Clone this (should be public) repo
+2) Navigate to the folder you cloned into
+3) run `shopify theme serve`
+4) Your terminal should tell you to go to [http://127.0.0.1:9292](http://127.0.0.1:9292)
+5) My test store is password protected. The password is simply my first name lowercase:`marco`
+
 # Dawn
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)

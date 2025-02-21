@@ -153,9 +153,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_9KRELL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PYJ7eH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Marco",
+            "heading_size": "h1"
+          }
+        },
+        "text_f8Kq4P": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_pbT7WQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PYJ7eH",
+        "text_f8Kq4P",
+        "button_pbT7WQ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
+    "rich_text_9KRELL",
     "6a3bb789-ce10-45f5-ae67-e2063ef8c76b",
     "featured_collection",
     "f1552b18-6017-4231-810d-74e61da22c37",
